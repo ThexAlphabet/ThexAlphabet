@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm xAlphabet</h1>
-<h3 align="center">A passionate frontend developer I'm xAlphabet_, a seasoned developer fluent in multiple programming languages, specializing in Minecraft Management and Development using Skript.from America!</h3>
+<h3 align="center">A passionate frontend developer I'm xAlphabet_, a seasoned developer fluent in multiple programming languages, specializing in Minecraft Management and Development using Java from America!</h3>
 
 - 👯 I’m looking to collaborate on **Minecraft Servers!**
 
