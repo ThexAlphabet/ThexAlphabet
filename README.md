@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **hi@xalphabet.dev or xAlphabet_ discord!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me and hire me for free! (Depending on services!)</h3>
 <p align="left">
 </p>
 
