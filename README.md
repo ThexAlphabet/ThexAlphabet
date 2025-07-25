@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://xalphabet.dev](https://xalphabet.dev)
 
-- 📫 How to reach me **hi@xalphabet.dev or xAlphabet_ on discord!**
+- 📫 How to reach me *you can't*!
 
 <h3 align="left">Connect with me and hire me for free! (Depending on services!)</h3>
 <p align="left">
